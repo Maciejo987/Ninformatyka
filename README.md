@@ -1,2 +1,1 @@
-# Ninformatyka
-projekt
+Maciej 22978 C11
